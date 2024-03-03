@@ -9,4 +9,6 @@ function urutanAngka($angka)
         echo "<br>";
     }
 }
+
+echo urutanAngka(8);
 ?>
